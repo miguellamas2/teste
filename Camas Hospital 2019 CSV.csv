@@ -1,0 +1,355 @@
+;Territórios;Camas nos hospitais
+Âmbito Geográfico;Anos;2019
+NUTS III;Alto Minho;null
+NUTS III;Cávado;2088
+NUTS III;Ave;747
+NUTS III;Área Metropolitana do Porto;7251
+NUTS III;Alto Tâmega;0
+NUTS III;Tâmega e Sousa;null
+NUTS III;Douro;null
+NUTS III;Terras de Trás-os-Montes;null
+NUTS III;Oeste;518
+NUTS III;Região de Aveiro;569
+NUTS III;Região de Coimbra;3132
+NUTS III;Região de Leiria;759
+NUTS III;Viseu Dão Lafões;null
+NUTS III;Beira Baixa;230
+NUTS III;Médio Tejo;null
+NUTS III;Beiras e Serra da Estrela;null
+NUTS III;Área Metropolitana de Lisboa;11135
+NUTS III;Alentejo Litoral;114
+NUTS III;Baixo Alentejo;233
+NUTS III;Lezíria do Tejo;null
+NUTS III;Alto Alentejo;null
+NUTS III;Alentejo Central;null
+NUTS III;Algarve;1272
+NUTS III;Ilha de Santa Maria;0
+NUTS III;Ilha de São Miguel;832
+NUTS III;Ilha Terceira;552
+NUTS III;Ilha Graciosa;0
+NUTS III;Ilha de São Jorge;0
+NUTS III;Ilha do Pico;0
+NUTS III;Ilha do Faial;100
+NUTS III;Ilha das Flores;0
+NUTS III;Ilha do Corvo;0
+NUTS III;Ilha da Madeira;1868
+NUTS III;Ilha de Porto Santo;0
+NUTS II;Norte;12277
+NUTS II;Centro;7325
+NUTS II;Área Metropolitana de Lisboa;11135
+NUTS II;Alentejo;1552
+NUTS II;Algarve;1272
+NUTS II;Região Autónoma dos Açores;1484
+NUTS II;Região Autónoma da Madeira;1868
+NUTS I;Continente;33561
+NUTS I;Região Autónoma dos Açores;1484
+NUTS I;Região Autónoma da Madeira;1868
+NUTS 2013;Portugal;36913
+Município;Arcos de Valdevez;0
+Município;Caminha;0
+Município;Melgaço;0
+Município;Monção;0
+Município;Paredes de Coura;0
+Município;Ponte da Barca;0
+Município;Ponte de Lima;0
+Município;Valença;0
+Município;Viana do Castelo;null
+Município;Vila Nova de Cerveira;0
+Município;Amares;null
+Município;Barcelos;701
+Município;Braga;1249
+Município;Esposende;null
+Município;Terras de Bouro;0
+Município;Vila Verde;null
+Município;Cabeceiras de Basto;0
+Município;Fafe;0
+Município;Guimarães;null
+Município;Mondim de Basto;0
+Município;Póvoa de Lanhoso;null
+Município;Vieira do Minho;0
+Município;Vila Nova de Famalicão;null
+Município;Vizela;0
+Município;Arouca;null
+Município;Espinho;null
+Município;Gondomar;0
+Município;Maia;0
+Município;Matosinhos;null
+Município;Oliveira de Azeméis;0
+Município;Paredes;null
+Município;Porto;4008
+Município;Póvoa de Varzim;null
+Município;Santa Maria da Feira;392
+Município;Santo Tirso;268
+Município;São João da Madeira;0
+Município;Trofa;null
+Município;Vale de Cambra;0
+Município;Valongo;null
+Município;Vila do Conde;0
+Município;Vila Nova de Gaia;927
+Município;Boticas;0
+Município;Chaves;0
+Município;Montalegre;0
+Município;Ribeira de Pena;0
+Município;Valpaços;0
+Município;Vila Pouca de Aguiar;0
+Município;Amarante;0
+Município;Baião;0
+Município;Castelo de Paiva;0
+Município;Celorico de Basto;0
+Município;Cinfães;0
+Município;Felgueiras;null
+Município;Lousada;0
+Município;Marco de Canaveses;null
+Município;Paços de Ferreira;0
+Município;Penafiel;521
+Município;Resende;0
+Município;Alijó;0
+Município;Armamar;0
+Município;Carrazeda de Ansiães;0
+Município;Freixo de Espada à Cinta;0
+Município;Lamego;0
+Município;Mesão Frio;0
+Município;Moimenta da Beira;0
+Município;Murça;0
+Município;Penedono;0
+Município;Peso da Régua;0
+Município;Sabrosa;0
+Município;Santa Marta de Penaguião;0
+Município;São João da Pesqueira;0
+Município;Sernancelhe;0
+Município;Tabuaço;0
+Município;Tarouca;0
+Município;Torre de Moncorvo;0
+Município;Vila Nova de Foz Côa;0
+Município;Vila Real;null
+Município;Alfândega da Fé;0
+Município;Bragança;425
+Município;Macedo de Cavaleiros;0
+Município;Miranda do Douro;0
+Município;Mirandela;null
+Município;Mogadouro;0
+Município;Vila Flor;0
+Município;Vimioso;0
+Município;Vinhais;0
+Município;Alcobaça;0
+Município;Alenquer;0
+Município;Arruda dos Vinhos;0
+Município;Bombarral;0
+Município;Cadaval;0
+Município;Caldas da Rainha;null
+Município;Lourinhã;0
+Município;Nazaré;null
+Município;Óbidos;0
+Município;Peniche;0
+Município;Sobral de Monte Agraço;0
+Município;Torres Vedras;null
+Município;Águeda;0
+Município;Albergaria-a-Velha;0
+Município;Anadia;null
+Município;Aveiro;null
+Município;Estarreja;0
+Município;Ílhavo;0
+Município;Murtosa;0
+Município;Oliveira do Bairro;null
+Município;Ovar;48
+Município;Sever do Vouga;0
+Município;Vagos;0
+Município;Arganil;0
+Município;Cantanhede;103
+Município;Coimbra;null
+Município;Condeixa-a-Nova;null
+Município;Figueira da Foz;154
+Município;Góis;0
+Município;Lousã;0
+Município;Mealhada;null
+Município;Mira;0
+Município;Miranda do Corvo;0
+Município;Montemor-o-Velho;0
+Município;Mortágua;0
+Município;Oliveira do Hospital;null
+Município;Pampilhosa da Serra;0
+Município;Penacova;0
+Município;Penela;0
+Município;Soure;0
+Município;Tábua;0
+Município;Vila Nova de Poiares;0
+Município;Alvaiázere;null
+Município;Ansião;null
+Município;Batalha;0
+Município;Castanheira de Pêra;0
+Município;Figueiró dos Vinhos;0
+Município;Leiria;null
+Município;Marinha Grande;null
+Município;Pedrógão Grande;0
+Município;Pombal;0
+Município;Porto de Mós;0
+Município;Aguiar da Beira;0
+Município;Carregal do Sal;0
+Município;Castro Daire;0
+Município;Mangualde;0
+Município;Nelas;0
+Município;Oliveira de Frades;0
+Município;Penalva do Castelo;0
+Município;Santa Comba Dão;0
+Município;São Pedro do Sul;0
+Município;Sátão;0
+Município;Tondela;0
+Município;Vila Nova de Paiva;0
+Município;Viseu;null
+Município;Vouzela;0
+Município;Castelo Branco;230
+Município;Idanha-a-Nova;0
+Município;Oleiros;0
+Município;Penamacor;0
+Município;Proença-a-Nova;0
+Município;Vila Velha de Ródão;0
+Município;Abrantes;0
+Município;Alcanena;null
+Município;Constância;21
+Município;Entroncamento;null
+Município;Ferreira do Zêzere;0
+Município;Mação;0
+Município;Ourém;0
+Município;Sardoal;0
+Município;Sertã;0
+Município;Tomar;422
+Município;Torres Novas;0
+Município;Vila de Rei;0
+Município;Vila Nova da Barquinha;0
+Município;Almeida;0
+Município;Belmonte;0
+Município;Celorico da Beira;0
+Município;Covilhã;315
+Município;Figueira de Castelo Rodrigo;0
+Município;Fornos de Algodres;0
+Município;Fundão;0
+Município;Gouveia;0
+Município;Guarda;null
+Município;Manteigas;0
+Município;Mêda;0
+Município;Pinhel;0
+Município;Sabugal;0
+Município;Seia;0
+Município;Trancoso;0
+Município;Alcochete;0
+Município;Almada;607
+Município;Amadora;null
+Município;Barreiro;413
+Município;Cascais;616
+Município;Lisboa;5689
+Município;Loures;null
+Município;Mafra;0
+Município;Moita;0
+Município;Montijo;0
+Município;Odivelas;0
+Município;Oeiras;null
+Município;Palmela;0
+Município;Seixal;0
+Município;Sesimbra;0
+Município;Setúbal;null
+Município;Sintra;1177
+Município;Vila Franca de Xira;333
+Município;Alcácer do Sal;0
+Município;Grândola;0
+Município;Odemira;0
+Município;Santiago do Cacém;114
+Município;Sines;0
+Município;Aljustrel;0
+Município;Almodôvar;0
+Município;Alvito;0
+Município;Barrancos;0
+Município;Beja;233
+Município;Castro Verde;0
+Município;Cuba;0
+Município;Ferreira do Alentejo;0
+Município;Mértola;0
+Município;Moura;0
+Município;Ourique;0
+Município;Serpa;0
+Município;Vidigueira;0
+Município;Almeirim;0
+Município;Alpiarça;0
+Município;Azambuja;0
+Município;Benavente;0
+Município;Cartaxo;0
+Município;Chamusca;0
+Município;Coruche;0
+Município;Golegã;0
+Município;Rio Maior;0
+Município;Salvaterra de Magos;0
+Município;Santarém;null
+Município;Alter do Chão;0
+Município;Arronches;0
+Município;Avis;0
+Município;Campo Maior;0
+Município;Castelo de Vide;0
+Município;Crato;0
+Município;Elvas;0
+Município;Fronteira;0
+Município;Gavião;0
+Município;Marvão;0
+Município;Monforte;null
+Município;Nisa;0
+Município;Ponte de Sor;0
+Município;Portalegre;250
+Município;Sousel;0
+Município;Alandroal;0
+Município;Arraiolos;0
+Município;Borba;0
+Município;Estremoz;0
+Município;Évora;null
+Município;Montemor-o-Novo;null
+Município;Mora;0
+Município;Mourão;0
+Município;Portel;0
+Município;Redondo;0
+Município;Reguengos de Monsaraz;0
+Município;Vendas Novas;0
+Município;Viana do Alentejo;0
+Município;Vila Viçosa;0
+Município;Albufeira;null
+Município;Alcoutim;0
+Município;Aljezur;0
+Município;Castro Marim;0
+Município;Faro;null
+Município;Lagoa;0
+Município;Lagos;null
+Município;Loulé;null
+Município;Monchique;0
+Município;Olhão;14
+Município;Portimão;null
+Município;São Brás de Alportel;0
+Município;Silves;null
+Município;Tavira;0
+Município;Vila do Bispo;0
+Município;Vila Real de Santo António;0
+Município;Vila do Porto;0
+Município;Lagoa [R.A.A.];0
+Município;Nordeste;0
+Município;Ponta Delgada;832
+Município;Povoação;0
+Município;Ribeira Grande;0
+Município;Vila Franca do Campo;0
+Município;Angra do Heroísmo;552
+Município;Vila da Praia da Vitória;0
+Município;Santa Cruz da Graciosa;0
+Município;Calheta [R.A.A.];0
+Município;Velas;0
+Município;Lajes do Pico;0
+Município;Madalena;0
+Município;São Roque do Pico;0
+Município;Horta;100
+Município;Lajes das Flores;0
+Município;Santa Cruz das Flores;0
+Município;Corvo;0
+Município;Calheta [R.A.M.];0
+Município;Câmara de Lobos;0
+Município;Funchal;1868
+Município;Machico;0
+Município;Ponta do Sol;0
+Município;Porto Moniz;0
+Município;Ribeira Brava;0
+Município;Santa Cruz;0
+Município;Santana;0
+Município;São Vicente;0
+Município;Porto Santo;0
